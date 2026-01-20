@@ -12,4 +12,4 @@ I love repacking games. So much.
 
 # My programs
 
-[FaliOpera (idea by MakuYan)(https://github.com/itzfali/itzfali.github.io/raw/main/files/FaliOpera.exe)
+[FaliOpera (idea by MakuYan)](https://github.com/itzfali/itzfali.github.io/raw/main/files/FaliOpera.exe)
