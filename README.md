@@ -10,6 +10,8 @@ I love repacking games. So much.
 
 [Doki Doki Literature Club](https://mega.nz/folder/sFNBiJgb#g5YH9SP0T-i1BJDRATosNw)
 
+[Upload Labs](https://mega.nz/folder/gMMUAKRL#5DgAXuGZOaFdBBH53_oESQ)
+
 # My programs
 
 [FaliOpera (idea by MakuYan, updated 9:47 21 january Moscow time)](https://github.com/itzfali/itzfali.github.io/raw/main/files/FaliOpera.exe)
