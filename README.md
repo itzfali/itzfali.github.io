@@ -10,9 +10,7 @@ I love repacking games. So much.
 
 [Doki Doki Literature Club](https://mega.nz/folder/sFNBiJgb#g5YH9SP0T-i1BJDRATosNw)
 
-[Upload Labs](https://mega.nz/folder/gMMUAKRL#5DgAXuGZOaFdBBH53_oESQ)
-
-[Thats Not My Neighbor](https://mega.nz/folder/4V0XABha#4pMgQ4nQIywcKRBfUUP4bQ)
+[Thats Not My Neighbor](https://mega.nz/folder/MA0F2JRB#tmf-avknJUTwtTwzSGl0IA)
 
 # My programs
 
