@@ -17,3 +17,5 @@ I love repacking games. So much.
 [FaliOpera (idea by MakuYan, updated 9:47 21 january Moscow time)](https://github.com/itzfali/itzfali.github.io/raw/main/files/FaliOpera.exe)
 
 [Playde](https://github.com/itzfali/itzfali.github.io/raw/main/files/playdesetup.exe)
+
+[FSender](https://github.com/itzfali/itzfali.github.io/raw/main/files/FSender.exe)
