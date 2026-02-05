@@ -19,3 +19,7 @@ I love repacking games. So much.
 [Playde](https://github.com/itzfali/itzfali.github.io/raw/main/files/playdesetup.exe)
 
 [FSender](https://github.com/itzfali/itzfali.github.io/raw/main/files/FSender.exe)
+
+# Download programs
+
+[Malwarebytes](https://github.com/itzfali/itzfali.github.io/raw/refs/heads/main/files/MBSetup.exe)
