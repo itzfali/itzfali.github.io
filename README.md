@@ -23,3 +23,7 @@ I love repacking games. So much.
 # Download programs
 
 [Malwarebytes](https://github.com/itzfali/itzfali.github.io/raw/refs/heads/main/files/MBSetup.exe)
+
+[PyCharm 2025.3.2.1 Windows](https://github.com/itzfali/itzfali.github.io/releases/download/bigfiles/pycharm2025.3.2.1windows.zip)
+
+[Offline Brawl Beta V3.7 with new Frida (17.6.2)](https://github.com/itzfali/itzfali.github.io/releases/download/bigfiles/offlinebrawl_beta_v3.7_prod_01_frida_17.6.2.apk)
