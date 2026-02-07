@@ -15,13 +15,3 @@ I love repacking games. So much.
 # My programs
 
 [FaliOpera (idea by MakuYan, updated 9:47 21 january Moscow time)](https://github.com/itzfali/itzfali.github.io/raw/main/files/FaliOpera.exe)
-
-[Playde](https://github.com/itzfali/itzfali.github.io/raw/main/files/playdesetup.exe)
-
-[FSender](https://github.com/itzfali/itzfali.github.io/raw/main/files/FSender.exe)
-
-# Download programs
-
-[Malwarebytes](https://github.com/itzfali/itzfali.github.io/raw/refs/heads/main/files/MBSetup.exe)
-
-[PyCharm 2025.3.2.1 Windows](https://github.com/itzfali/itzfali.github.io/releases/download/bigfiles/pycharm2025.3.2.1windows.zip)
