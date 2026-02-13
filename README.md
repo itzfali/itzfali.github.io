@@ -6,7 +6,7 @@ I love repacking games. So much.
 
 # My repacks
 
-[DMCA your game](mailto:baszucki@gmail.com?subject=DMCA request)
+[DMCA your game](mailto:baszucki@gmail.com)
 
 [Tiny Bunny: Prologue](https://mega.nz/folder/cJETXIJT#nK73QoSANaYxDXC_JOuj0A)
 
